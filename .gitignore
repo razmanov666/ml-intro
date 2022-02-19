@@ -35,3 +35,5 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+1_data_manipulations/database.sqlite
